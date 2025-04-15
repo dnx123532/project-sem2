@@ -1,0 +1,77 @@
+body{
+    margin: 0 auto;
+    background-color: wheat;
+    color: black;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+img{
+    width: 100px;
+}
+.hero{
+    background: goldenrod;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+
+
+footer{
+    background-color: blueviolet;
+    text-align: center;
+
+}  
+nav{
+    margin: 10px 0;
+    text-align: center;
+}
+nav a{
+    color: yellow;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 16px;
+}   
+
+img{
+    border-radius: 20%;
+}
+header{
+    background: rgb(147,23,56);
+    padding: 10px 20px;
+    text-align: center;
+}
+.container{
+    margin: 0 auto;
+    display: block;
+    background-color:red;
+    color: white;
+    width: 500px;
+    height: 700px;
+}
+.container1{
+    background: white;
+    padding: 10px 20px;
+    text-align: center;
+
+}
+
+h3{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p{
+    text-align: center;
+}
+.container5{
+    background: green;
+    padding: 10px 20px;
+    text-align: center;
+
+}
+
